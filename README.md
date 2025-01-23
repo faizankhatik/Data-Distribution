@@ -18,13 +18,8 @@ Understanding data distribution is fundamental to exploring, visualizing, and an
   - Skewness and Kurtosis
 - **Visualizing Distributions**:
   - Histograms
-  - Box Plots
-  - Probability Density Functions (PDFs)
-  - Cumulative Distribution Functions (CDFs)
 - **Applications**:
   - Identifying patterns in data
-  - Making predictions based on probabilistic models
-  - Hypothesis testing and statistical inference
 
 ## Requirements
 
@@ -34,10 +29,8 @@ To run the code and visualizations, ensure you have the following installed:
 - Jupyter Notebook
 - Libraries:
   - `numpy`
-  - `pandas`
   - `matplotlib`
   - `seaborn`
-  - `scipy`
 
 ## Usage
 
@@ -59,8 +52,6 @@ To run the code and visualizations, ensure you have the following installed:
 - **Normal Distribution**:
   ![Normal Distribution](https://via.placeholder.com/600x200?text=Normal+Distribution)
 
-- **Box Plot**:
-  ![Box Plot](https://via.placeholder.com/600x200?text=Box+Plot)
 
 ## Contribution
 
